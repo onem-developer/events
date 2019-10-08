@@ -1,0 +1,9 @@
+{
+    "name": "Django ONEm Calendar Events app",
+    "description": "Django ONEm Calendar Events app",
+    "repository": "https://github.com/onem-developer/events.git",
+    "keywords": ["django", "onem", "calendar", "events", "sms", "app"],
+    "env": {
+        "DISABLE_COLLECTSTATIC": "1"
+    }
+}

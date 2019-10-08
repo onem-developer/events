@@ -1,0 +1,128 @@
+[
+  {
+    "model": "events.event",
+    "pk": 1,
+    "fields": {
+      "start_datetime": "2017-11-14T10:00:00+00:00",
+      "end_datetime": "2017-12-12T17:00:00+00:00",
+      "description": "Inclusive Entrepreneurship Challenge - London, UK"
+    }
+  },
+  {
+    "model": "events.event",
+    "pk": 2,
+    "fields": {
+      "start_datetime": "2017-02-22T10:00:00+00:00",
+      "end_datetime": "2017-02-28T17:00:00+00:00",
+      "description": "Mobile World Congress - Barcelona, SP"
+    }
+  },
+  {
+    "model": "events.event",
+    "pk": 3,
+    "fields": {
+      "start_datetime": "2018-01-25T11:00:00+00:00",
+      "end_datetime": "2018-01-25T14:30:00+00:00",
+      "description": "VCCircle London's ONEm minting virtual coins that can be traded without internet"
+    }
+  },
+  {
+    "model": "events.event",
+    "pk": 4,
+    "fields": {
+      "start_datetime": "2018-04-11T10:30:00+00:00",
+      "end_datetime": "2018-04-11T11:30:00+00:00",
+      "description": "CIO East Africa businesses to license ONEm’s internet-like service technology"
+    }
+  },
+  {
+    "model": "events.event",
+    "pk": 5,
+    "fields": {
+      "start_datetime": "2018-04-12T14:00:00+00:00",
+      "end_datetime": "2018-04-12T15:30:00+00:00",
+      "description": "Bockchain News ONEm Seeks to Bring Internet to Rural Africa via Blockchain-Powered SMS"
+    }
+  },
+  {
+    "model": "events.event",
+    "pk": 6,
+    "fields": {
+      "start_datetime": "2018-05-29T09:30:00+00:00",
+      "end_datetime": "2018-05-29T11:30:00+00:00",
+      "description": "HumanIPO Thousands of people to participate in mCoin’s Virtual SMS Wallet Release"
+    }
+  },
+  {
+    "model": "events.event",
+    "pk": 7,
+    "fields": {
+      "start_datetime": "2018-09-17T12:30:00+00:00",
+      "end_datetime": "2018-09-17T14:30:00+00:00",
+      "description": "HumanIPO mCoin now in Africa The Only Cryptocurrency without Internet"
+    }
+  },
+  {
+    "model": "events.event",
+    "pk": 8,
+    "fields": {
+      "start_datetime": "2018-09-25T16:30:00+00:00",
+      "end_datetime": "2018-09-25T17:30:00+00:00",
+      "description": "Bitcoing Magazine Cryptocurrency That Works Without Internet, mCoin Launches In Africa"
+    }
+  },
+  {
+    "model": "events.event",
+    "pk": 9,
+    "fields": {
+      "start_datetime": "2019-05-11T12:30:00+00:00",
+      "end_datetime": "2019-05-11T14:30:00+00:00",
+      "description": "Al Jazeera, ONEm team up for news by SMS"
+    }
+  },
+  {
+    "model": "events.event",
+    "pk": 10,
+    "fields": {
+      "start_datetime": "2019-10-01T12:30:00+00:00",
+      "end_datetime": "2019-10-01T14:30:00+00:00",
+      "description": "ONEm welcomes T-2 to its growing Mobile Ecosystem"
+    }
+  },
+  {
+    "model": "events.event",
+    "pk": 11,
+    "fields": {
+      "start_datetime": "2019-12-10T12:30:00+00:00",
+      "end_datetime": "2019-12-10T14:30:00+00:00",
+      "description": "ONEm welcomes Beecell to its growing Mobile Ecosystem"
+    }
+  },
+  {
+    "model": "events.event",
+    "pk": 12,
+    "fields": {
+      "start_datetime": "2019-12-20T10:40:00+00:00",
+      "end_datetime": "2019-12-10T11:00:00+00:00",
+      "description": "ONEm welcomes Crowd Mobile to its growing Mobile Ecosystem"
+    }
+  },
+  {
+    "model": "events.event",
+    "pk": 13,
+    "fields": {
+      "start_datetime": "2020-01-20T10:40:00+00:00",
+      "end_datetime": "2019-01-10T11:00:00+00:00",
+      "description": "ONEmWallet - Apps on Google Play"
+    }
+  },
+  {
+    "model": "events.event",
+    "pk": 14,
+    "fields": {
+      "start_datetime": "2020-04-07T10:40:00+00:00",
+      "end_datetime": "2019-04-07T11:00:00+00:00",
+      "description": "ONEm wins award for Technology Innovation from Entrepreneur Magazine"
+    }
+  }
+]
